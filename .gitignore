@@ -1,0 +1,9 @@
+node_modules/
+.vs/
+.vercel/
+.claude/
+CRM_Project_Fixed.zip
+*.log
+.env
+.env.*
+CRM_Project_Fixed/
